@@ -1,3 +1,3 @@
 # RQuadHeavyIndustries
 # Push only src/ folder!
-# Create branches to make changes to any file!
+Only one person working on a file at a time!
